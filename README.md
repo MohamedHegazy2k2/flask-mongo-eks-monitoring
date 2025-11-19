@@ -1,6 +1,5 @@
 # flask-mongo-eks-monitoring
 A Flask &amp; MongoDB To-Do app demonstrating end-to-end DevOps practices: Docker containerization, AWS EKS provisioning via Terraform, GitHub Actions CI/CD, and Prometheus/Grafana monitoring
-# Flask To-Do List Application with DevOps Practices
 
 ## 📖 Project Description
 This project involves the end-to-end development, deployment, and monitoring of a Flask-based To-Do List web application. The application features a simple, responsive user interface backed by **MongoDB** for data persistence.
